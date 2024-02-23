@@ -196,5 +196,3 @@ Jonas['twitter'] = '@jonashmedtmann';
 console.log(Jonas);
 
 console.log('${Jonas.firstName} has ${Jonas.friends.lenght} and his best friend called ${Jonas.friends[0]}');
-
-console.log(Jonas);
