@@ -146,8 +146,8 @@ TEST DATA 2: Dolphins score 85, 54 and 41. Koalas score 23, 34 and 27
 // console.log(Jonas);
 
 // const calcAge = function (birthYear) {
-//   return 2037 - birthYear;
-// }
+//    return 2037 - birthYear;
+//  }
 // const years = [1990, 1967, 2002, 2010, 2018];
 // const ages = [calcAge(years[0]), calcAge(years[1]), calcAge(years[years.length - 1])];
 // console.log(ages);
@@ -196,3 +196,5 @@ Jonas['twitter'] = '@jonashmedtmann';
 console.log(Jonas);
 
 console.log('${Jonas.firstName} has ${Jonas.friends.lenght} and his best friend called ${Jonas.friends[0]}');
+
+console.log(Jonas);
